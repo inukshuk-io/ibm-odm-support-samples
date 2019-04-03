@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
-  <name>segdwick</name>
+  <name>customer</name>
   <uuid>356bc087-9a51-490f-b20b-0da124fd5482</uuid>
 </ilog.rules.studio.model.base:RulePackage>
