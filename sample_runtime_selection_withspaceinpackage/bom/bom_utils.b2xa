@@ -1,0 +1,16 @@
+<b2x:translation xmlns:b2x="http://schemas.ilog.com/JRules/1.3/Translation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.ilog.com/JRules/1.3/Translation ilog/rules/schemas/1_3/b2x.xsd">
+    <id>242144c8-788f-4eff-ba86-b7c9ac72e553</id>
+    <lang>ARL</lang>
+    <class>
+        <businessName>customer.Rule.Util.EngineUtils</businessName>
+        <executionName>java.lang.Object</executionName>
+        <import>ilog.rules.brl.IlrNameUtil</import>
+        <method>
+            <name>BusinessName</name>
+            <parameter type="java.lang.String"/>
+            <body language="arl"><![CDATA[
+            return IlrNameUtil.getBusinessIdentifier(name);
+            ]]></body>
+        </method>
+    </class>
+</b2x:translation>

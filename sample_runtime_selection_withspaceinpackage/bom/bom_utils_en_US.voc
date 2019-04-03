@@ -1,0 +1,6 @@
+# Vocabulary Properties
+uuid = 9c4bd94d-9879-4b33-b22b-f3d4abe09265
+
+# customer.Rule.Util.EngineUtils
+customer.Rule.Util.EngineUtils#concept.label = engine utils
+customer.Rule.Util.EngineUtils.BusinessName(java.lang.String)#phrase.navigation = the business name of {0}

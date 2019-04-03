@@ -1,0 +1,12 @@
+
+property loadGetterSetterAsProperties "true"
+property origin "xom:/sample_runtime_selection_withspaceinpackage/org.eclipse.jdt.launching.JRE_CONTAINER"
+property uuid "2cc9fbea-01bb-4c79-a7ca-80b5a41d3e62"
+package customer.Rule.Util;
+
+
+public class EngineUtils
+{
+    public static final string BusinessName(string name);
+}
+
