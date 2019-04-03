@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
+  <name>package_with_underscores</name>
+  <uuid>5407286a-8233-43a8-b097-e9b1c46f6320</uuid>
+</ilog.rules.studio.model.base:RulePackage>
