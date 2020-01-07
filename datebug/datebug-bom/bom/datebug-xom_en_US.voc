@@ -1,0 +1,11 @@
+# Vocabulary Properties
+uuid = 0e38848e-cdef-4a54-a23c-6c97841b01eb
+
+# io.inukshuk.odm.bugs.datebetween.Claim
+io.inukshuk.odm.bugs.datebetween.Claim#concept.label = claim
+io.inukshuk.odm.bugs.datebetween.Claim.date#phrase.action = set the date of {this} to {date}
+io.inukshuk.odm.bugs.datebetween.Claim.date#phrase.navigation = {date} of {this}
+io.inukshuk.odm.bugs.datebetween.Claim.dateString#phrase.action = set the date string of {this} to {date string}
+io.inukshuk.odm.bugs.datebetween.Claim.message#phrase.action = set the message of {this} to {message}
+io.inukshuk.odm.bugs.datebetween.Claim.message#phrase.navigation = {message} of {this}
+io.inukshuk.odm.bugs.datebetween.Claim.toString()#phrase.navigation = the info about {this}

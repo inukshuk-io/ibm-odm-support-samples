@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>display</name>
+  <uuid>c68ac7f8-6b7b-469b-b2d5-2f4e9c70c6d4</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[
+then 
+print "the claim : " + the info about 'my claim' ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

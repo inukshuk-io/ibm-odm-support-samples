@@ -1,0 +1,17 @@
+
+property loadGetterSetterAsProperties "true"
+property origin "xom:/datebug-bom//datebug-xom"
+property uuid "09d9551d-0be9-44c5-bc87-55e083dadf0a"
+package io.inukshuk.odm.bugs.datebetween;
+
+
+public class Claim
+{
+    public java.util.Date date;
+    public writeonly string dateString;
+    public string message;
+    public Claim(string arg);
+    public Claim();
+    public string toString();
+}
+

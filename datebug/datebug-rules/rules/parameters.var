@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.base:VariableSet xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
+  <name>parameters</name>
+  <uuid>b4ca8326-c320-4b32-b73e-68c92d63dd85</uuid>
+  <variables name="claim" type="io.inukshuk.odm.bugs.datebetween.Claim" initialValue="new io.inukshuk.odm.bugs.datebetween.Claim()" verbalization="my claim"/>
+</ilog.rules.studio.model.base:VariableSet>

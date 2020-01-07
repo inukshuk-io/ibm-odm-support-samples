@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" xmlns:ilog.rules.studio.model.query.extractor="http://ilog.rules.studio/model/query/extractor.ecore" rulesetName="checkdates" usingRuleflow="true" ruleflowName="mainRuleflow" targetRuleProjectName="datebug-rules">
+  <name>checkdates</name>
+  <uuid>307b2b9d-5e4a-4dc5-9478-bb3e2c9b7bd2</uuid>
+  <referencedVariables variableName="claim" variableSetName="parameters" direction="IN_OUT">
+    <variableSet href="../rules/parameters.var#b4ca8326-c320-4b32-b73e-68c92d63dd85"/>
+  </referencedVariables>
+  <ruleflow href="../rules/mainRuleflow.rfl#928e6141-1eb3-4ae1-b793-e9dec1561f1d"/>
+  <extractor xsi:type="ilog.rules.studio.model.query.extractor:QueryExtractor" name="checkdates_extractor" validator="Default Validator"/>
+  <targetRuleProject href="../../datebug-rules#6ab29487-8261-4d1d-a80f-ff80f87f98d9"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>
